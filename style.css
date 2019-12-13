@@ -1,0 +1,31 @@
+.LOOOL{
+	font-family: cursive;
+}
+.wood{
+	background-image: url(https://images.ua.prom.st/969619489_w640_h640_oboi-s-imitatsiej.jpg);
+	font-size: 50px;
+	color: black;
+	font-family: cursive;
+	padding: 0px;
+
+}
+.mama{
+	font-size: 50px;
+	color: black;
+    font-family: cursive;
+    background: url(http://www.best-wallpaper.ru/images/goods/e629408-opt.jpg);
+
+}
+.flowers{
+	background-image: url(https://ampir.ru/upload/iblock/507/507adc6970ba9edd85c9f5b7695c918d.jpeg);
+	padding: 0px;
+}
+.molding{
+	background-image: url(5006-CQ.jpg);
+	font-size: 30px;
+	color: #e8b690;
+	padding: 0px;
+}
+a{ 
+text-decoration: none;
+}
